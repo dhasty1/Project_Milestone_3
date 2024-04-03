@@ -1,24 +1,17 @@
 # Project Milestone 3
 
-## Use Case:
+### Use Case:
 
-### CEO Strategy Themes:
+**CEO Strategy Themes**:
 **Objective**: Identify unique linguistic or thematic signatures of individual CEOs or companies.
 **Possible Techniques**: Use topic modeling (e.g., BERTopic) and visualizations to explore different themes by company or industry (this would require you to map company to industries).
 
 
 
-Jupyter notebook (ideally Colab) or GitHub repo/folder of initial POC: Provide a clear, concise, and working example of five different inputs and corresponding outputs of the model. This section should demonstrate the model's practical application and allow others to easily understand and replicate the process. For instance, in an NER project, show an input text string and its annotated output; for a search/retrieval task, provide a query and the corresponding returned output.
+**Jupyter notebook of initial POC**: 
+Each of the attached files represents a specific industry that was identified from the documents by our group and contains basic data exploration, sentiment analysis and topic modeling.
 
-Include all dependencies required to run the project in the notebook or an accompanying requirements.txt file.
-Ensure there are no dependency conflicts that prevent the notebook from running.
-Well organized notebook; e.g., use of Markdown headers and sections to organize the notebook clearly.
-Logical flow of the code with clear, concise, and relevant comments explaining the purpose of each code block.
-Avoidance of excessive details that do not contribute to understanding or running the code (e.g., printing the full dataset).
-Clear and concise Markdown text descriptions (or comments) explaining the objectives, methodology, and conclusions of each section.
-Efficient use of code, avoiding redundant or unnecessarily complex functions or loops.
-Appropriate error handling to ensure the notebook runs smoothly from start to finish without crashing.
-Test notebooks in a clean environment (e.g., using a new kernel) to ensure that notebooks are fully reproducible with the provided dependencies.
+_See Project Milestone 3 document for further reflection_
 
 ![data visualization](images/Data_visualization.png)
 
