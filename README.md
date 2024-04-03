@@ -3,6 +3,7 @@
 ### Use Case:
 
 **CEO Strategy Themes**:
+
 **Objective**: Identify unique linguistic or thematic signatures of individual CEOs or companies.
 **Possible Techniques**: Use topic modeling (e.g., BERTopic) and visualizations to explore different themes by company or industry (this would require you to map company to industries).
 
