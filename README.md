@@ -20,7 +20,7 @@ Efficient use of code, avoiding redundant or unnecessarily complex functions or 
 Appropriate error handling to ensure the notebook runs smoothly from start to finish without crashing.
 Test notebooks in a clean environment (e.g., using a new kernel) to ensure that notebooks are fully reproducible with the provided dependencies.
 
-![image]()
+![data visualization](images/Data_visualization.png)
 
 
 ## Write Up
